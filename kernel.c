@@ -6,7 +6,6 @@ uint16 print(unsigned char ch)
   uint8  al = 0;
   ax <<= 8;
   return (ax|= al = ch);
-  
 }
 
 
@@ -21,6 +20,7 @@ void kernel_entry()
   //Clears the output buffer from any garbage values
   for(uint32 i = 0; i < BUFSIZE; i++)
       (vga_buffer)[i] = print(NULL);
+      
   // Adds the string items to the vga buffer charecter by charecter
   for(uint32 i=0;str[i]!='\0';i++)
        vga_buffer[i] = print(str[i]);
