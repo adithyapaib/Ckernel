@@ -6,13 +6,13 @@
 </div>
 
 
-## Tech Stack
+## Tech Stack  🔬
 
 **C**
 
 **Assembly Language**
 
-## Requirements
+## Requirements 🔍
 
 - **Any Linux Enviroment**
 
@@ -32,7 +32,7 @@
 
 
 
-## Run on your PC
+## Run on your PC 🔮
 
 Clone the project
 
@@ -59,7 +59,7 @@ Go to the project directory
 
 
 
-## Documentation
+## Documentation 📰
 
 #### Files and functions
 - **boot.s**   :  This is the multiboot bootloader file.
@@ -72,7 +72,7 @@ Go to the project directory
 
 
 
-## License
+## License 📜
 
 [MIT](https://choosealicense.com/licenses/mit/)
 
