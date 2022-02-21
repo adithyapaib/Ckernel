@@ -71,8 +71,16 @@ Go to the project directory
 
 
 
+## Screenshots 📸
+
+![App Screenshot](https://github.com/adithyapaib/Ckernel/blob/main/img/ss1.png)
+![App Screenshot](https://github.com/adithyapaib/Ckernel/blob/main/img/ss2.png)
+
+
+
 
 ## License 📜
 
 [MIT](https://choosealicense.com/licenses/mit/)
+
 
